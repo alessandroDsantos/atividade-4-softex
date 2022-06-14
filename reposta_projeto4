@@ -1,26 +1,26 @@
-    cadeia nome, endereco, cidade, nome_pai, nome_mae, cpf
-    inteiro rg, idade
-    real peso, renda_bruta
+    	cadeia nome, endereco, cidade, nome_pai, nome_mae, cpf
+    	inteiro rg, idade
+    	real peso, renda_bruta
 	    
-		escreva("Digite seu nome: ")
-		leia(nome)
-		escreva("Digite seu endereco: ")
-		leia(endereco)
-		escreva("Digite sua cidade: ")
-		leia(cidade)
-		escreva("Digite seu cpf: ")
-		leia(cpf)
-		escreva("Digite seu rg: ")
-		leia(rg)
-		escreva("Digite seu idade: ")
-		leia(idade)
-		escreva("Digite seu nome do pai: ")
-		leia(nome_pai)
-		escreva("Digite seu nome da mãe: ")
-		leia(nome_mae)
-		escreva("Digite seu peso: ")
-		leia(peso)
-		escreva("Digite seu renda bruta: ")
-		leia(renda_bruta)
-		
-		escreva("Seu nome é:", nome,"\nidade:", idade,"\nendereco:", endereco,"\ncidade:", cidade, "\ncpf:", cpf,"\nrg:", rg,"\nnome do pai:", nome_pai, "\nnome da mãe:", nome_mae, "\npeso:", peso,"\nrenda bruta:", renda_bruta)
+	escreva("Digite seu nome: ")
+	leia(nome)
+	escreva("Digite seu endereco: ")
+	leia(endereco)
+	escreva("Digite sua cidade: ")
+	leia(cidade)
+	escreva("Digite seu cpf: ")
+	leia(cpf)
+	escreva("Digite seu rg: ")
+	leia(rg)
+	escreva("Digite seu idade: ")
+	leia(idade)
+	escreva("Digite seu nome do pai: ")
+	leia(nome_pai)
+	escreva("Digite seu nome da mãe: ")
+	leia(nome_mae)
+	escreva("Digite seu peso: ")
+	leia(peso)
+	escreva("Digite seu renda bruta: ")
+	leia(renda_bruta)
+
+	escreva("Seu nome é:", nome,"\nidade:", idade,"\nendereco:", endereco,"\ncidade:", cidade, "\ncpf:", cpf,"\nrg:", rg,"\nnome do pai:", nome_pai, "\nnome da mãe:", nome_mae, "\npeso:", peso,"\nrenda bruta:", renda_bruta)
